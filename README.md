@@ -7,7 +7,7 @@
 
 # ---------- main.py ----------
 """
-Main entry point for FortressCore.
+Main entry point for .
 """
 
 from core.logic import DecisionEngine
