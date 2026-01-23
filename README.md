@@ -7,7 +7,7 @@
 
 # ---------- main.py ----------
 """
-Main entry point for .
+Main entry point for For.
 """
 
 from core.logic import DecisionEngine
