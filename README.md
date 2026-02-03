@@ -16,7 +16,7 @@ from core.system import SystemBlueprint
 
 def run():
     print("🛡️ FortressCore Online")
-    print("🏗️ System Design | 🧠 Complexes Logic | 🧱 Durable Foundations\n")
+    print("🏗️ System Design | 🧠 Complex Logic | 🧱 Durable Foundations\n")
 
     engine = DecisionEngine()
     system = SystemBlueprint()
