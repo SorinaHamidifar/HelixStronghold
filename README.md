@@ -11,7 +11,7 @@ Main entry point for FortressCore.
 """
 
 from core.logic import DecisionEngine
-from core.system import SystemBlueprint
+from core.system import 
 
 
 def run():
