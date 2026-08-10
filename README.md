@@ -10,7 +10,7 @@
 Main entry point for FortressCore.
 """
 
-from core.logic import Dec
+from core.logic import Decis
 from core.system import SystemBlueprint
 
 
