@@ -10,7 +10,7 @@
 Main entry point for FortressCore.
 """
 
-from core.logic import DecisionEngine
+from core.logic import Decision
 from core.system import SystemBlueprint
 
 
