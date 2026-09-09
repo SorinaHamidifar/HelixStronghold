@@ -1,5 +1,5 @@
 # ================================
-# Project: FortressCore Durable Foundations\n") 
+# Project: FortressCore Durable Foundations
 # Description:
 # A fortified hub for complex logic, system designs,
 # and durable software foundations.
