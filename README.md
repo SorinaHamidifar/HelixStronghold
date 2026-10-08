@@ -1,5 +1,5 @@
 # ================================
-# Project: FortressCore system designs,
+# Project: FortressCore system de
 # Description:
 # A fortified hub for complex logic, system designs,
 # and durable software foundations.
